@@ -22,12 +22,6 @@ Este proyecto es el frontend del sistema de agenda para una sala de cine, desarr
     pnpm install
     ```
 
-    o si prefieres usar yarn:
-
-    ```bash
-    pnpm install
-    ```
-
 3. **Configurar el entorno**
 
     Crea un archivo `.env` en la raíz del proyecto y configura las variables de entorno necesarias, como lo es la url hacia la API en nest js:
